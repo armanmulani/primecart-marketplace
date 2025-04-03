@@ -4,9 +4,8 @@
   "main": "dist/index.js",
   "scripts": {
     "start": "node dist/index.js",
-    "dev": "nodemon src/index.ts",
     "build": "tsc",
-    "watch": "tsc -w"
+    "dev": "nodemon src/index.ts"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
