@@ -2,7 +2,7 @@
 
 A modern full-stack e-commerce platform built with React, TypeScript, and Node.js. PrimeCart offers a premium shopping experience with a sleek user interface and robust functionality.
 
-![PrimeCart Screenshot](screenshots/homepage.png) <!-- Add your screenshot here -->
+
 
 ## Features
 
